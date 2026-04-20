@@ -30,17 +30,10 @@ This project focuses on building a **data pipeline using ETL (Extract, Transform
 ## Key Insights
 - ETL successfully transforms unstructured news data into structured datasets ready for analysis.  
 - Topic modeling identifies **7 main crime topics**:
-  - Theft and physical violence  
-  - Sexual crimes and child abuse  
+  - Theft and physical violence (dominant)
+  - Sexual crimes and child abuse (dominant)
   - Political crimes and human rights violations  
   - Armed violence and separatism  
   - Financial crimes and narcotics  
   - Murder and assault  
   - Legal violations and abuse of power  
-
-- The most dominant topics are **theft & physical violence** and **sexual crimes and child abuse**, indicating major public concerns in recent months.  
-
-## Output
-- Automated ETL pipeline for data collection and processing  
-- Structured database (PostgreSQL)  
-- Topic modeling results (7 crime categories)  
